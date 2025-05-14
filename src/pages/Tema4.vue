@@ -131,7 +131,7 @@
               <figure>
                 <img
                   src="@/assets/curso/tema4/6.svg"
-                  alt="La Figura 1 se denomina «Comparación de arquitecturas de bodegas de datos» y presenta dos ejemplos para el sector de ventas, donde el esquema estrella tiene solo dimensiones principales y el esquema copo de nieve tiene dimensiones primarias y secundarias."
+                  alt="La Figura 2 se denomina «Proceso de selección de variables» y presenta cuatro fases relacionadas con el análi>sis de datos o evaluación técnica. Fluye desde el análisis inicial hasta la validación final, con una evaluación técnica y de impacto en el camino."
                 />
               </figure>
             </div>

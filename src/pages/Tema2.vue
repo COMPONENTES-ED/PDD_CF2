@@ -101,7 +101,7 @@
                 <img src="@/assets/curso/tema2/5.svg" />
               </figure>
               <p class="fw-bold mb-3">Variación temporal</p>
-              <p>Se mantiene la dimensión temporal de todos los datos</p>
+              <p>Se mantiene la dimensión temporal de todos los datos.</p>
             </div>
           </div>
         </div>

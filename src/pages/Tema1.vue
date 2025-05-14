@@ -132,33 +132,33 @@
           <tbody class="text-center">
             <tr class="bg-white">
               <td>1FN</td>
-              <td>Eliminar grupos repetitivos</td>
-              <td>Atomicidad de datos</td>
-              <td>Puede aumentar el número de tablas</td>
+              <td>Eliminar grupos repetitivos.</td>
+              <td>Atomicidad de datos.</td>
+              <td>Puede aumentar el número de tablas.</td>
             </tr>
             <tr class="bg-white">
-              <td>2FN</td>
-              <td>Eliminar dependencias parciales</td>
-              <td>Mejor integridad de datos</td>
-              <td>Requiere identificar dependencias funcionales</td>
+              <td>2FN.</td>
+              <td>Eliminar dependencias parciales.</td>
+              <td>Mejor integridad de datos.</td>
+              <td>Requiere identificar dependencias funcionales.</td>
             </tr>
             <tr class="bg-white">
-              <td>3FN</td>
-              <td>Eliminar dependencias transitivas</td>
-              <td>Reduce redundancia</td>
-              <td>Puede afectar el rendimiento de consultas</td>
+              <td>3FN.</td>
+              <td>Eliminar dependencias transitivas.</td>
+              <td>Reduce redundancia.</td>
+              <td>Puede afectar el rendimiento de consultas.</td>
             </tr>
             <tr class="bg-white">
-              <td>BCNF</td>
-              <td>Eliminar anomalías restantes</td>
-              <td>Máxima normalización práctica</td>
-              <td>Complejidad aumentada</td>
+              <td>BCNF.</td>
+              <td>Eliminar anomalías restantes.</td>
+              <td>Máxima normalización práctica.</td>
+              <td>Complejidad aumentada.</td>
             </tr>
             <tr class="bg-white">
-              <td>4FN</td>
-              <td>Manejar dependencias multivaluadas</td>
-              <td>Mejor manejo de relaciones M:N</td>
-              <td>Raramente necesaria</td>
+              <td>4FN.</td>
+              <td>Manejar dependencias multivaluadas.</td>
+              <td>Mejor manejo de relaciones M:N.</td>
+              <td>Raramente necesaria.</td>
             </tr>
           </tbody>
         </table>
