@@ -242,23 +242,22 @@
                   invaluables para examinar relaciones entre variables
                   continuas, mientras que los gráficos de calor pueden revelar
                   patrones complejos en matrices de correlación. Los gráficos de
-                  caja (<b><em>box plots</em></b
-                  >) combinan múltiples aspectos de la distribución de datos,
-                  mostrando simultáneamente la mediana, cuartiles y valores
-                  atípicos.
+                  caja (<em>box plots</em>) combinan múltiples aspectos de la
+                  distribución de datos, mostrando simultáneamente la mediana,
+                  cuartiles y valores atípicos.
                 </p>
               </div>
             </div>
           </div>
         </div>
         <p class="mt-4 mb-0">
-          En el contexto del <b><em>big data</em></b> y la inteligencia
-          artificial, las técnicas de visualización han evolucionado para
-          manejar volúmenes masivos de datos. Las visualizaciones interactivas
-          permiten a los analistas explorar diferentes niveles de detalle,
-          mientras que las técnicas de reducción de dimensionalidad como t-SNE y
-          UMAP facilitan la visualización de datos altamente dimensionales en
-          espacios bidimensionales o tridimensionales.
+          En el contexto del <em>big data</em> y la inteligencia artificial, las
+          técnicas de visualización han evolucionado para manejar volúmenes
+          masivos de datos. Las visualizaciones interactivas permiten a los
+          analistas explorar diferentes niveles de detalle, mientras que las
+          técnicas de reducción de dimensionalidad como t-SNE y UMAP facilitan
+          la visualización de datos altamente dimensionales en espacios
+          bidimensionales o tridimensionales.
         </p>
       </div>
       <div class="row mt-4">
