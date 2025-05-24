@@ -88,6 +88,10 @@
             allowfullscreen="allowfullscreen"
           ></iframe>
         </div>
+        <figcaption>
+          Video. Integración y gestión avanzada de datos para inteligencia
+          artificial
+        </figcaption>
       </figure>
     </div>
   </div>
