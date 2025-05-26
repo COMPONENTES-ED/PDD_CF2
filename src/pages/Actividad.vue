@@ -19,7 +19,7 @@
           <div class="titulo-segundo">
             <h2>
               Prueba de conocimientos sobre Integración y gestión avanzada de
-              datos para inteligencia artificial.
+              datos para inteligencia artificial
             </h2>
           </div>
           <p class="mb-4">
